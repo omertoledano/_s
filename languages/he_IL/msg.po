@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Atlas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-13 12:22+0200\n"
+"PO-Revision-Date: 2013-04-13 12:26+0200\n"
+"Last-Translator: Omer <omertoledano1@gmail.com>\n"
+"Language-Team: Atlas <omertoledano1@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:38
+#: ../comments.php:58
+msgid "Comment navigation"
+msgstr "ניווט בין תגובות"
+
+#: ../comments.php:70
+msgid "Comments are closed."
+msgstr "התגובות אסורות"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס! הדף לא יכול להמצא."
+
+#: ../404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "נראה ששום דבר לא נמצא במקום הזה. אולי תנסה את הקישור מתחת לחיפוש?"
+
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr "הקטגוריות המשומשות ביותר"
+
+#: ../archive.php:48
+msgid "Asides"
+msgstr "בצד"
+
+#: ../archive.php:51
+msgid "Images"
+msgstr "תמונות"
+
+#: ../archive.php:54
+msgid "Videos"
+msgstr "וידאו"
+
+#: ../archive.php:57
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: ../archive.php:60
+msgid "Links"
+msgstr "קישורים"
+
+#: ../archive.php:63
+#: ../sidebar.php:17
+msgid "Archives"
+msgstr "ארכיב"
+
+#: ../image.php:103
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:105
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr "מאטה"
+
+#: ../header.php:34
+msgid "Menu"
+msgstr "תפריט"
+
+#: ../header.php:35
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr "שום דבר לא נמצא"
+
+#: ../no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "סליחה, לא מצאנו תוצאות לחיפוש. אנא נסה שוב עם מילים אחרות."
+
+#: ../no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה שלא ניתן למצוא את מה שאתה מחפש. אולי חיפוש יעזור."
+
+#: ../inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "ניווט פוסטים"
+
+#: ../inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה שלך מחכה לאישור."
+
